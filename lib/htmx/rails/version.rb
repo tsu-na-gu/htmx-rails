@@ -2,7 +2,7 @@
 
 module Htmx
   module Rails
-    VERSION = '0.2.0'
-    HTMX_VERSION = '1.9.2'
+    VERSION = '0.2.1'
+    HTMX_VERSION = '2.0.2'
   end
 end
