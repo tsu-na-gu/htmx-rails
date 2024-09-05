@@ -9,7 +9,7 @@
 Add `htmx-rails` to your `Gemfile`:
 
 ```ruby
-gem 'htmx-rails', github: 'tsu-na-gu/htmx-rails', branch: 'main'
+gem 'htmx-rails', github: 'tsu-na-gu/htmx-rails', branch: 'master'
 ```
 
 ### this fork is only change latest 2.02 htmx.js support
