@@ -12,6 +12,8 @@ Add `htmx-rails` to your `Gemfile`:
 gem 'htmx-rails'
 ```
 
+this fork is only change latest 2.02 htmx.js support
+
 And then execute in your shell:
 
 ```
